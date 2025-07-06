@@ -12,6 +12,7 @@
 
 #pragma once
 #include "app.h"
+#include <stdbool.h>
 
 #define I2C_MEMADD_SIZE_8BIT            0x00000001U
 #define I2C_MEMADD_SIZE_16BIT           0x00000010U
